@@ -40,4 +40,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: qumanchik/Qumanchik:latest
+          tags: qumanchik/qumanchik:latest
